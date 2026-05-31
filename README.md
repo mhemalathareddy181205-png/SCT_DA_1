@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on creating an interactive Sales Dashboard using Microsoft Excel. The dashboard provides insights into sales performance, profit distribution, and sales trends through Pivot Tables, Charts, Slicers, and Conditional Formatting.
+This project focuses on creating  Sales Dashboard using Microsoft Excel. The dashboard provides insights into sales performance, profit distribution, and sales trends through Pivot Tables, Charts and Conditional Formatting.
 
 ## Objective
 
@@ -11,14 +11,12 @@ This project focuses on creating an interactive Sales Dashboard using Microsoft 
 * Analyze Profit by Category.
 * Track Sales Trends over Time.
 * Highlight high and low performers using Conditional Formatting.
-* Enable interactive filtering using Slicers.
 
 ## Tools Used
 
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
-* Slicers
 * Conditional Formatting
 
 ## Dashboard Features
@@ -32,14 +30,10 @@ This project focuses on creating an interactive Sales Dashboard using Microsoft 
 ### Visualizations
 
 * Sales by Region
+* Profit by Region
+* Sales by Category
 * Profit by Category
 * Sales Trend Over Time
-
-### Interactive Elements
-
-* Region Slicer
-* Category Slicer
-* Segment Slicer
 
 ## Files Included
 * Superstore sales table (.xlsx)
