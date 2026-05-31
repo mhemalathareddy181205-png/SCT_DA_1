@@ -60,4 +60,5 @@ The dashboard provides a clear  view of sales performance, enabling data-driven 
 ## Author
 
 Mallareddygari Hemalatha
+
 Data Analytics Internship Project
